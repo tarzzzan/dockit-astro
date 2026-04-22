@@ -1,11 +1,10 @@
 {
-  "media": "src/assets",
   "content": "src/content",
-  "code": "src/components",
-  "arrangement": [],
-  "public": "src",
+  "media": "src/assets",
+  "public": "public",
   "configs": [
     "src/config"
   ],
-  "custom-commit": false
+  "custom-commit": false,
+  "arrangement": []
 }
